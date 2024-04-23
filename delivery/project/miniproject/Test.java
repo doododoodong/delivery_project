@@ -41,8 +41,8 @@ public class Test extends Vo {
 		}
 	}
 	
-	public void test(String msg) {
-		System.out.println(msg);
+	public void test(String jhg) {
+		System.out.println(jhg);
 	}
 		
 }
