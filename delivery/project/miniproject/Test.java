@@ -40,5 +40,9 @@ public class Test extends Vo {
 			Tool.print("예외발생 : " + e.getMessage());
 		}
 	}
+	
+	public void test(String msg) {
+		System.out.println(msg);
+	}
 		
 }
